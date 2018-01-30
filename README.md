@@ -1,6 +1,8 @@
 # lunch-n-learn-1
 Lunch and learn presentation and demo code on a certain js topic for monday january 29th based on the book "Simplifying Javascript - Writing modern JavaScript with ES5, ES6 and beyond".
 
+Presentation: http://slides.com/showlet/lunchnlearnubi#/
+
 ## Material we will be covering
 #### Data collection with arrays and code clarity with special collections (chapters 2 and 3)
 * Using the spread operator
