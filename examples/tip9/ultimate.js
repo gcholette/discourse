@@ -1,0 +1,1 @@
+[...dogs.reduce((colors, { color }) => colors.add(color), new Set())]
