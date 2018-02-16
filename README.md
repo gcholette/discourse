@@ -1,5 +1,5 @@
-# lunch-n-learn-ubi
-Lunch and learn presentation and demo code given monday january 29th 2018.
+# Javascript arrays and collections
+Lunch and learn presentation and demo code given monday january 29th 2018 at Ubisoft Montréal.
 
 Presentation: http://slides.com/showlet/lunchnlearnubi/fullscreen
 
