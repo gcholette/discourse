@@ -1,0 +1,11 @@
+{
+ "book": {
+  "title": "design patterns"
+ },
+ "dependencies": {
+  "dev": {
+   "mongodb": "6.9.1",
+   "zeromq": "3.4.1"
+  }
+ }
+}

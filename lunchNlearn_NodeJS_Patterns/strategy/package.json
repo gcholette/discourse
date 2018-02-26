@@ -1,0 +1,16 @@
+{
+  "name": "strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "configTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node configTest.js"
+  },
+  "author": "Gabriel Cholette-Rioux",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^1.3.5",
+    "object-path": "^0.11.4"
+  }
+}
