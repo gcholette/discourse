@@ -16,4 +16,5 @@ const mage = new Mage()
 
 mage.on('hit', life => 
     console.log("ow! " + life + " life left"))
+
 mage.hit(20)

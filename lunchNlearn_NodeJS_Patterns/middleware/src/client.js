@@ -18,6 +18,6 @@ zmqm.use({
 setInterval(() => {
     zmqm.send({ 
         action: 'ping', 
-        echo: Date.now 
+        time: Date.now()
     })
-}, 200)
+}, 800)

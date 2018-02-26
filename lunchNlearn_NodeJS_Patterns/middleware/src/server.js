@@ -10,12 +10,12 @@ zmqm.use(jsonMiddleware.json())
 
 zmqm.use({
     inbound: function (message, next) {
-        console.log('Message received: ', message.data.action)
+        console.log(`[${new Date(message.data.time)}]Received: `, message.data.action)
 
         if (message.data.action === 'ping') {
             this.send({ 
                 action: 'pong', 
-                echo: message.data.echo 
+                time: message.data.time 
             })
         }
         next()
